@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Reddy
-- 📜 I'm a former intern at Eli Lilly and Company, a $300 billion biotech/pharma giant
+- 📜 I'm a former intern at Eli Lilly and Company and current intern on UCLA's Backend Student Media Team
 - 👀 I’m interested in Software Engineering and Machine Learning
 - 💻 I’m currently in my final quarter at UCLA studying Computer Science and Linguistics
 - 👨‍💻 I’m looking for a new grad SWE position this upcoming January! 
