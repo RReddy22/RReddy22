@@ -7,7 +7,7 @@
 
 <br/>
 📚 Stack: <br/>
-- C++, C#, Python, Java, Haskell, Lisp, HTML, CSS <br/>
+- C++, C#, Python, Java, Haskell, Lisp, HTML, CSS
 - Git, Unity, React, Node  
 
 <!---
