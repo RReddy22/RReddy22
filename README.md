@@ -6,7 +6,7 @@
 - 📫 How to reach me: rreddy22@g.ucla.edu 
 
 <br/>
-📚 Stack: <br/>
+📚 Stack:
 - C++, C#, Python, Java, Haskell, Lisp, HTML, CSS
 - Git, Unity, React, Node  
 
