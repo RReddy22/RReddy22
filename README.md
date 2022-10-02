@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering and Machine Learning
 - 💻 I’m currently in my final quarter at UCLA studying Computer Science and Linguistics
 - 👨‍💻 I’m looking for a new grad SWE position this upcoming January! 
-- 📫 How to reach me: rreddy22@g.ucla.edu 
+- 📫 How to reach me: rreddy22@g.ucla.edu <br/>
 
 📚 Stack:
 - C++, C#, Python, Java, Haskell, Lisp, HTML, CSS
