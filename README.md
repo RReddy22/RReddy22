@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rahul Reddy
 - 📜 I'm a former intern at both Eli Lilly and Company and UCLA's Backend Student Media Team
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 💻 I just graduated from UCLA where I studied Computer Science and Linguistics
-- 👨‍💻 I’m looking for a Software Engineering position this upcoming January! 
+- 👨‍💻 Recent UCLA Grad looking to work as a Software Engineer 
 - 📫 How to reach me: rreddy22@g.ucla.edu <br/>
 
 <!---
