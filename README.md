@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rahul Reddy
-- 📜 I'm a former intern at Eli Lilly & Company and UCLA's Backend Student Media Team
-- 👨‍💻 Recent UCLA Grad looking to work as a Software Engineer 
+- 👋 Hi, I’m Rahul Reddy. 
+- 📜 I'm a former intern at Eli Lilly & Company. 
+- 👨‍💻 I'm also a UCLA Grad working as a Software Engineer at Lockheed Martin.
 - 📫 How to reach me: rreddy22@g.ucla.edu <br/>
 
 <!---
