@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Reddy. 
-- 📜 I'm a former intern at Eli Lilly & Company. 
-- 👨‍💻 I'm also a UCLA Grad working as a Software Engineer at Lockheed Martin.
+- 👨‍💻 I'm a UCLA Grad working as a Full-Stack Software Engineer at Lockheed Martin.
+- 📜 I'm also a former intern at Eli Lilly & Company. 
 - 📫 How to reach me: rreddy22@g.ucla.edu <br/>
 
 <!---
